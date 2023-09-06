@@ -23,7 +23,14 @@ $ cmake -DCMAKE_PREFIX_PATH=$MY_INSTALL_DIR ../..
 $ make -j 4
 ```
 
+## Screenshots
 
+### Calling REST service using Postman
+<img width="636" alt="Screenshot 2023-09-06 124115" src="https://github.com/shahramatrian/UserService/assets/2606110/89f774da-099a-4edf-adb7-4b93936645f3">
+
+### Logs on server
+
+<img width="278" alt="Screenshot 2023-09-06 124137" src="https://github.com/shahramatrian/UserService/assets/2606110/6b4fd5b4-566e-4806-a9d2-3e00a2efbf1f">
 
 ## UML diagrams
 Simplified sequence diagram:
