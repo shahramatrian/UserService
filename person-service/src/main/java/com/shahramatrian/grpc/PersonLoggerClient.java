@@ -2,7 +2,6 @@ package com.shahramatrian.grpc;
 
 import io.grpc.Channel;
 import io.grpc.StatusRuntimeException;
-import net.devh.boot.grpc.client.inject.GrpcClient;
 
 import java.time.Instant;
 import java.util.logging.Level;
